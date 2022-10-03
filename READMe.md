@@ -14,9 +14,10 @@ Logging
 
 ## Final Testing
 
-<video controls src="https://github.com/nayananarayananp/Robo_Advisor_Lamda/blob/380546573b4e0b7d8b919b2f9a9dc0b9f0a30621/TestBot.mp4?raw=true" weight="500" height="340"/>
-<video controls src="https://github.com/nayananarayananp/Robo_Advisor_Lamda/blob/main/TestBot%20with%20Lambda.mp4?raw=true" weight="500" height="340"/>
- 
+https://user-images.githubusercontent.com/107375206/193504185-9ae35757-86f3-4409-b98f-cc74b0f84ad8.mp4
+
+https://user-images.githubusercontent.com/107375206/193504196-d77955ba-0879-4d3a-bf1d-ee2e68086572.mp4
+
 ## Contributors
 Contributed by Nayana Narayanan.
 
